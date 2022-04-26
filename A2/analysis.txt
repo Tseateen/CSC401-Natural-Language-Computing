@@ -1,0 +1,37 @@
+Model Without Attention:
+    Train:
+        Epoch 1: loss=3.4169800919577145, BLEU=0.23782151920874672
+        Epoch 2: loss=2.4561682044498827, BLEU=0.2643984401241628
+        Epoch 3: loss=1.9969000426485264, BLEU=0.2790074400836764
+        Epoch 4: loss=1.6476520516256317, BLEU=0.2893420749316724
+        Epoch 5: loss=1.376916452960889, BLEU=0.29414799298601285
+        Finished 5 epochs
+
+    Test:
+        The average BLEU score over the test set was 0.3278514498991549
+
+Model With Attention:
+    Train:
+        Epoch 1: loss=3.1859450241433263, BLEU=0.27672932549178403
+        Epoch 2: loss=2.139208515961013, BLEU=0.30622121211925674
+        Epoch 3: loss=1.6723779092346782, BLEU=0.31676537610759997
+        Epoch 4: loss=1.3405925368779488, BLEU=0.3238508498220268
+        Epoch 5: loss=1.0986998061988826, BLEU=0.3260173157667861
+        Finished 5 epochs
+    Test:
+        The average BLEU score over the test set was 0.3733365201892426
+
+Model With Multi-Head Attention:
+    Train:
+        Epoch 1: loss=3.107131949002597, BLEU=0.2829260822540475
+        Epoch 2: loss=2.0915503714942316, BLEU=0.3130033934336951
+        Epoch 3: loss=1.674999571461548, BLEU=0.3225150158116235
+        Epoch 4: loss=1.3889974963549698, BLEU=0.33032188235812243
+        Epoch 5: loss=1.1824224643144998, BLEU=0.3324051487510164
+        Finished 5 epochs
+    Test:
+        The average BLEU score over the test set was 0.3769851859727657
+
+
+According to the results, BLEU in the test part is higher than that in the train part, and BLEU is increasing steadily in the training part. So I think it is because there is enough data to do the training that the module's stability gradually increases.
+Looking at the training and testing results, Model With Multi-Head Attention did better than other modules because it has a higher BLEU.

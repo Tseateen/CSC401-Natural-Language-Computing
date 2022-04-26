@@ -1,0 +1,13 @@
+Online asr system: Microsoft Azure
+
+Speak:
+One word: Identification
+One sentence (around 5 seconds):  Read out the transcripts, record the sound files yourself.
+A sentence, but read very slowly (around 10 seconds): Read out the transcripts, record the sound files yourself.
+
+Got:
+One word: Identification
+One sentence (around 5 seconds):  Read out the transcripts. Record the sound files yourself.
+A sentence, but read very slowly (around 10 seconds): Read or thought the transcribes. Recorded. The fuels. Yourself.
+
+When speaking at normal speed, the system can accurately conduct a transcript. But when speaking very slowly, it seems words and sentences become indistinguishable, and the results become very inaccurate.

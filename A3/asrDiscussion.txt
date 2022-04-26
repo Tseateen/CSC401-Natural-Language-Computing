@@ -1,0 +1,763 @@
+S-10B Google 0 41.899 S:30, I:2, D:44
+S-10B Kaldi 0 24.022 S:21, I:2, D:21
+
+S-10B Google 1 37.979 S:64, I:4, D:42
+S-10B Kaldi 1 22.997 S:48, I:2, D:17
+
+S-10B Google 2 28.701 S:52, I:2, D:42
+S-10B Kaldi 2 19.637 S:41, I:4, D:21
+
+S-10B Google 3 28.859 S:48, I:2, D:37
+S-10B Kaldi 3 20.47 S:44, I:2, D:16
+
+S-10B Google 4 31.32 S:85, I:2, D:54
+S-10B Kaldi 4 21.029 S:67, I:4, D:24
+
+S-10B Google 5 25.446 S:60, I:9, D:46
+S-10B Kaldi 5 16.741 S:49, I:11, D:16
+
+S-10B Google 6 28.659 S:26, I:0, D:22
+S-10B Kaldi 6 18.293 S:14, I:2, D:15
+
+S-10B Google 7 30.126 S:54, I:2, D:17
+S-10B Kaldi 7 23.013 S:38, I:0, D:18
+
+S-10B Google 8 27.734 S:49, I:0, D:23
+S-10B Kaldi 8 17.188 S:27, I:4, D:14
+
+S-21A Google 0 65.649 S:73, I:0, D:100
+S-21A Kaldi 0 45.802 S:66, I:1, D:54
+
+S-21A Google 1 58.545 S:62, I:0, D:100
+S-21A Kaldi 1 38.909 S:64, I:1, D:43
+
+S-21A Google 2 61.616 S:45, I:1, D:77
+S-21A Kaldi 2 37.374 S:49, I:5, D:21
+
+S-21A Google 3 61.745 S:129, I:0, D:148
+S-21A Kaldi 3 37.136 S:86, I:4, D:77
+
+S-21A Google 4 61.988 S:142, I:1, D:176
+S-21A Kaldi 4 43.47 S:127, I:9, D:88
+
+S-21A Google 5 63.406 S:80, I:2, D:94
+S-21A Kaldi 5 41.304 S:57, I:2, D:56
+
+S-21A Google 6 60.0 S:22, I:0, D:42
+S-21A Kaldi 6 40.952 S:18, I:0, D:26
+
+S-21A Google 7 55.263 S:8, I:0, D:14
+S-21A Kaldi 7 28.947 S:8, I:0, D:4
+
+S-21A Google 8 41.463 S:7, I:0, D:11
+S-21A Kaldi 8 21.951 S:5, I:2, D:3
+
+S-21A Google 9 68.182 S:13, I:0, D:18
+S-21A Kaldi 9 45.455 S:10, I:0, D:11
+
+S-21A Google 10 48.634 S:40, I:0, D:50
+S-21A Kaldi 10 28.962 S:29, I:1, D:24
+
+S-21A Google 11 62.778 S:44, I:0, D:70
+S-21A Kaldi 11 46.667 S:39, I:0, D:46
+
+S-7C Google 0 32.036 S:116, I:9, D:90
+S-7C Kaldi 0 22.156 S:100, I:9, D:40
+
+S-7C Google 1 37.856 S:108, I:7, D:59
+S-7C Kaldi 1 24.508 S:81, I:14, D:18
+
+S-7C Google 2 29.368 S:83, I:2, D:74
+S-7C Kaldi 2 22.119 S:82, I:15, D:23
+
+S-7C Google 3 40.796 S:113, I:5, D:129
+S-7C Kaldi 3 27.363 S:98, I:3, D:65
+
+S-7C Google 4 34.411 S:75, I:1, D:74
+S-7C Kaldi 4 25.173 S:60, I:11, D:39
+
+S-7C Google 5 36.378 S:103, I:5, D:120
+S-7C Kaldi 5 24.519 S:100, I:12, D:42
+
+S-19C Google 0 54.839 S:60, I:1, D:59
+S-19C Kaldi 0 39.171 S:49, I:12, D:25
+
+S-19C Google 1 64.583 S:10, I:0, D:53
+S-19C Kaldi 1 50.0 S:29, I:1, D:19
+
+S-19C Google 2 46.725 S:53, I:2, D:53
+S-19C Kaldi 2 28.821 S:41, I:5, D:21
+
+S-19C Google 3 60.484 S:36, I:1, D:39
+S-19C Kaldi 3 45.161 S:36, I:2, D:19
+
+S-19C Google 4 52.06 S:71, I:2, D:67
+S-19C Kaldi 4 32.21 S:51, I:2, D:34
+
+S-19C Google 5 56.79 S:42, I:2, D:49
+S-19C Kaldi 5 45.062 S:42, I:7, D:25
+
+S-19C Google 6 44.444 S:22, I:0, D:23
+S-19C Kaldi 6 38.384 S:23, I:5, D:11
+
+S-19C Google 7 37.879 S:15, I:1, D:10
+S-19C Kaldi 7 34.848 S:18, I:3, D:3
+
+S-19C Google 8 28.986 S:10, I:0, D:11
+S-19C Kaldi 8 20.29 S:12, I:0, D:3
+
+S-19C Google 9 49.383 S:18, I:0, D:23
+S-19C Kaldi 9 41.975 S:18, I:1, D:16
+
+S-19C Google 10 39.394 S:5, I:0, D:9
+S-19C Kaldi 10 15.152 S:3, I:1, D:2
+
+S-19C Google 11 58.73 S:19, I:0, D:19
+S-19C Kaldi 11 55.556 S:25, I:1, D:10
+
+S-27C Google 0 39.241 S:67, I:0, D:89
+S-27C Kaldi 0 21.772 S:51, I:6, D:30
+
+S-27C Google 1 29.206 S:31, I:2, D:60
+S-27C Kaldi 1 15.873 S:26, I:7, D:18
+
+S-27C Google 2 36.39 S:38, I:2, D:88
+S-27C Kaldi 2 15.473 S:38, I:4, D:13
+
+S-27C Google 3 35.87 S:52, I:8, D:106
+S-27C Kaldi 3 19.565 S:50, I:11, D:30
+
+S-27C Google 4 35.459 S:95, I:1, D:133
+S-27C Kaldi 4 15.863 S:57, I:6, D:40
+
+S-27C Google 5 33.128 S:132, I:4, D:187
+S-27C Kaldi 5 21.399 S:125, I:10, D:74
+
+S-27C Google 6 37.662 S:17, I:0, D:42
+S-27C Kaldi 6 21.429 S:15, I:2, D:17
+
+S-27C Google 7 24.528 S:4, I:0, D:10
+S-27C Kaldi 7 9.434 S:3, I:0, D:3
+
+S-27C Google 8 45.361 S:21, I:0, D:24
+S-27C Kaldi 8 27.835 S:18, I:3, D:7
+
+S-27C Google 9 34.259 S:11, I:2, D:25
+S-27C Kaldi 9 20.37 S:13, I:3, D:7
+
+S-27C Google 10 40.0 S:7, I:0, D:12
+S-27C Kaldi 10 28.889 S:8, I:0, D:6
+
+S-27C Google 11 44.118 S:14, I:1, D:31
+S-27C Kaldi 11 25.49 S:12, I:0, D:15
+
+S-23C Google 0 30.909 S:26, I:0, D:26
+S-23C Kaldi 0 18.788 S:24, I:1, D:7
+
+S-23C Google 1 44.878 S:48, I:1, D:44
+S-23C Kaldi 1 31.707 S:44, I:3, D:19
+
+S-23C Google 2 41.573 S:40, I:7, D:28
+S-23C Kaldi 2 33.708 S:27, I:16, D:18
+
+S-23C Google 3 55.963 S:69, I:1, D:53
+S-23C Kaldi 3 40.826 S:65, I:3, D:22
+
+S-23C Google 4 45.228 S:95, I:1, D:123
+S-23C Kaldi 4 26.971 S:82, I:3, D:46
+
+S-23C Google 5 34.471 S:37, I:1, D:64
+S-23C Kaldi 5 21.843 S:35, I:4, D:26
+
+S-23C Google 6 32.558 S:3, I:0, D:12
+S-23C Kaldi 6 16.279 S:5, I:0, D:3
+
+S-23C Google 7 30.556 S:16, I:0, D:7
+S-23C Kaldi 7 15.278 S:10, I:0, D:2
+
+S-23C Google 8 36.364 S:15, I:1, D:17
+S-23C Kaldi 8 30.682 S:17, I:3, D:8
+
+S-23C Google 9 28.0 S:6, I:0, D:2
+S-23C Kaldi 9 24.0 S:5, I:2, D:0
+
+S-23C Google 10 60.417 S:13, I:0, D:17
+S-23C Kaldi 10 27.083 S:13, I:0, D:1
+
+S-23C Google 11 43.624 S:32, I:1, D:33
+S-23C Kaldi 11 21.477 S:22, I:0, D:11
+
+S-6B Google 0 53.846 S:40, I:1, D:37
+S-6B Kaldi 0 41.958 S:44, I:3, D:14
+
+S-6B Google 1 42.512 S:46, I:1, D:42
+S-6B Kaldi 1 31.401 S:45, I:6, D:15
+
+S-6B Google 2 30.556 S:48, I:1, D:40
+S-6B Kaldi 2 14.931 S:25, I:2, D:17
+
+S-6B Google 3 40.404 S:42, I:0, D:39
+S-6B Kaldi 3 23.737 S:30, I:6, D:12
+
+S-6B Google 4 27.804 S:64, I:3, D:53
+S-6B Kaldi 4 17.523 S:49, I:9, D:18
+
+S-6B Google 5 27.459 S:65, I:6, D:64
+S-6B Kaldi 5 10.656 S:28, I:6, D:19
+
+S-5A Google 0 53.07 S:104, I:1, D:138
+S-5A Kaldi 0 35.526 S:111, I:14, D:38
+
+S-5A Google 1 48.718 S:44, I:1, D:70
+S-5A Kaldi 1 29.487 S:44, I:4, D:22
+
+S-5A Google 2 43.888 S:138, I:6, D:155
+S-5A Kaldi 2 29.013 S:115, I:20, D:63
+
+S-5A Google 3 42.0 S:60, I:1, D:87
+S-5A Kaldi 3 23.714 S:50, I:6, D:28
+
+S-5A Google 4 40.979 S:56, I:1, D:78
+S-5A Kaldi 4 22.324 S:44, I:4, D:26
+
+S-5A Google 5 47.87 S:114, I:1, D:122
+S-5A Kaldi 5 28.6 S:88, I:5, D:49
+
+S-11C Google 0 26.904 S:18, I:2, D:34
+S-11C Kaldi 0 16.244 S:23, I:3, D:7
+
+S-11C Google 1 40.881 S:19, I:0, D:47
+S-11C Kaldi 1 22.642 S:28, I:0, D:9
+
+S-11C Google 2 25.936 S:55, I:0, D:43
+S-11C Kaldi 2 17.914 S:42, I:5, D:21
+
+S-11C Google 3 26.396 S:37, I:0, D:68
+S-11C Kaldi 3 19.036 S:44, I:3, D:29
+
+S-11C Google 4 22.552 S:74, I:1, D:55
+S-11C Kaldi 4 9.965 S:33, I:2, D:23
+
+S-11C Google 5 22.093 S:60, I:2, D:53
+S-11C Kaldi 5 11.047 S:31, I:7, D:20
+
+S-11C Google 6 27.962 S:33, I:1, D:26
+S-11C Kaldi 6 19.431 S:26, I:4, D:12
+
+S-11C Google 7 25.581 S:36, I:1, D:30
+S-11C Kaldi 7 12.016 S:19, I:0, D:13
+
+S-11C Google 8 24.762 S:13, I:1, D:13
+S-11C Kaldi 8 17.143 S:10, I:5, D:4
+
+S-16D Google 0 25.566 S:43, I:2, D:35
+S-16D Kaldi 0 22.33 S:51, I:7, D:12
+
+S-16D Google 1 21.739 S:45, I:1, D:65
+S-16D Kaldi 1 18.775 S:61, I:8, D:27
+
+S-16D Google 2 26.846 S:30, I:1, D:50
+S-16D Kaldi 2 23.49 S:49, I:7, D:15
+
+S-16D Google 3 21.053 S:45, I:2, D:58
+S-16D Kaldi 3 15.789 S:48, I:12, D:19
+
+S-16D Google 4 25.0 S:37, I:2, D:63
+S-16D Kaldi 4 17.822 S:51, I:2, D:20
+
+S-16D Google 5 24.08 S:27, I:1, D:45
+S-16D Kaldi 5 22.408 S:51, I:7, D:10
+
+S-16D Google 6 39.167 S:16, I:0, D:32
+S-16D Kaldi 6 33.333 S:24, I:8, D:9
+
+S-16D Google 7 29.31 S:6, I:1, D:11
+S-16D Kaldi 7 25.862 S:15, I:1, D:0
+
+S-16D Google 8 25.373 S:14, I:0, D:21
+S-16D Kaldi 8 17.164 S:16, I:1, D:7
+
+S-16D Google 9 40.625 S:2, I:0, D:12
+S-16D Kaldi 9 37.5 S:12, I:0, D:1
+
+S-16D Google 10 30.952 S:9, I:0, D:5
+S-16D Kaldi 10 21.429 S:8, I:1, D:1
+
+S-16D Google 11 20.988 S:4, I:0, D:14
+S-16D Kaldi 11 20.988 S:11, I:6, D:1
+
+S-16D Google 12 23.404 S:3, I:0, D:9
+S-16D Kaldi 12 21.277 S:9, I:2, D:0
+
+S-20D Google 0 50.579 S:61, I:0, D:71
+S-20D Kaldi 0 38.61 S:61, I:7, D:33
+
+S-20D Google 1 39.672 S:70, I:2, D:50
+S-20D Kaldi 1 25.902 S:47, I:6, D:27
+
+S-20D Google 2 45.752 S:57, I:0, D:84
+S-20D Kaldi 2 30.719 S:66, I:3, D:26
+
+S-20D Google 3 40.789 S:48, I:1, D:45
+S-20D Kaldi 3 37.719 S:58, I:0, D:29
+
+S-20D Google 4 35.852 S:145, I:7, D:110
+S-20D Kaldi 4 28.022 S:144, I:19, D:42
+
+S-20D Google 5 39.474 S:71, I:3, D:92
+S-20D Kaldi 5 27.751 S:76, I:8, D:33
+
+S-20D Google 6 72.222 S:4, I:0, D:23
+S-20D Kaldi 6 69.444 S:20, I:1, D:5
+
+S-20D Google 7 66.667 S:17, I:0, D:16
+S-20D Kaldi 7 52.083 S:23, I:1, D:2
+
+S-20D Google 8 40.909 S:6, I:0, D:4
+S-20D Kaldi 8 27.273 S:4, I:0, D:3
+
+S-20D Google 9 45.0 S:21, I:2, D:14
+S-20D Kaldi 9 52.5 S:23, I:11, D:9
+
+S-20D Google 10 50.0 S:32, I:0, D:20
+S-20D Kaldi 10 44.118 S:35, I:4, D:7
+
+S-20D Google 11 49.315 S:26, I:1, D:10
+S-20D Kaldi 11 39.726 S:21, I:4, D:5
+
+S-29A Google 0 29.508 S:29, I:1, D:43
+S-29A Kaldi 0 15.164 S:23, I:2, D:13
+
+S-29A Google 1 29.167 S:24, I:1, D:60
+S-29A Kaldi 1 20.486 S:32, I:3, D:25
+
+S-29A Google 2 39.59 S:19, I:0, D:98
+S-29A Kaldi 2 16.724 S:22, I:0, D:28
+
+S-29A Google 3 30.696 S:33, I:0, D:65
+S-29A Kaldi 3 17.089 S:28, I:1, D:26
+
+S-29A Google 4 31.853 S:40, I:6, D:120
+S-29A Kaldi 4 17.761 S:41, I:13, D:39
+
+S-29A Google 5 26.199 S:23, I:2, D:47
+S-29A Kaldi 5 14.022 S:16, I:3, D:20
+
+S-29A Google 6 27.027 S:0, I:0, D:11
+S-29A Kaldi 6 16.216 S:3, I:0, D:4
+
+S-29A Google 7 25.882 S:8, I:0, D:15
+S-29A Kaldi 7 22.353 S:14, I:1, D:5
+
+S-29A Google 8 18.667 S:5, I:0, D:10
+S-29A Kaldi 8 16.0 S:8, I:3, D:2
+
+S-29A Google 9 45.238 S:9, I:0, D:11
+S-29A Kaldi 9 16.667 S:3, I:0, D:5
+
+S-29A Google 10 30.0 S:7, I:1, D:14
+S-29A Kaldi 10 18.571 S:8, I:0, D:6
+
+S-29A Google 11 23.077 S:2, I:0, D:11
+S-29A Kaldi 11 32.692 S:9, I:0, D:9
+
+S-14B Google 0 43.023 S:64, I:1, D:84
+S-14B Kaldi 0 30.523 S:62, I:13, D:31
+
+S-14B Google 1 43.059 S:66, I:1, D:86
+S-14B Kaldi 1 31.445 S:58, I:6, D:48
+
+S-14B Google 2 39.45 S:66, I:3, D:61
+S-14B Kaldi 2 28.135 S:58, I:6, D:29
+
+S-14B Google 3 54.545 S:39, I:0, D:40
+S-14B Kaldi 3 42.657 S:44, I:4, D:14
+
+S-14B Google 4 44.41 S:63, I:2, D:79
+S-14B Kaldi 4 29.193 S:56, I:9, D:30
+
+S-14B Google 5 34.681 S:73, I:5, D:86
+S-14B Kaldi 5 22.128 S:64, I:7, D:34
+
+S-14B Google 6 40.0 S:7, I:0, D:22
+S-14B Kaldi 6 24.286 S:12, I:0, D:6
+
+S-14B Google 7 30.851 S:6, I:1, D:23
+S-14B Kaldi 7 34.043 S:21, I:3, D:9
+
+S-14B Google 8 30.303 S:2, I:0, D:9
+S-14B Kaldi 8 24.242 S:4, I:0, D:5
+
+S-32D Google 0 51.969 S:50, I:8, D:75
+S-32D Kaldi 0 41.732 S:50, I:23, D:34
+
+S-32D Google 1 39.748 S:38, I:0, D:89
+S-32D Kaldi 1 24.606 S:40, I:3, D:36
+
+S-32D Google 2 49.416 S:44, I:0, D:84
+S-32D Kaldi 2 39.689 S:55, I:7, D:41
+
+S-32D Google 3 43.056 S:27, I:0, D:98
+S-32D Kaldi 3 20.486 S:31, I:2, D:27
+
+S-32D Google 4 57.86 S:31, I:1, D:142
+S-32D Kaldi 4 27.759 S:39, I:4, D:41
+
+S-32D Google 5 38.696 S:28, I:0, D:62
+S-32D Kaldi 5 23.043 S:35, I:1, D:18
+
+S-32D Google 6 58.228 S:11, I:0, D:36
+S-32D Kaldi 6 34.177 S:9, I:0, D:19
+
+S-32D Google 7 49.091 S:18, I:0, D:37
+S-32D Kaldi 7 28.182 S:11, I:0, D:21
+
+S-32D Google 8 41.176 S:5, I:0, D:10
+S-32D Kaldi 8 23.529 S:6, I:0, D:3
+
+S-32D Google 9 37.952 S:27, I:1, D:36
+S-32D Kaldi 9 30.12 S:31, I:1, D:19
+
+S-32D Google 10 64.706 S:4, I:0, D:8
+S-32D Kaldi 10 29.412 S:4, I:1, D:1
+
+S-32D Google 11 46.667 S:14, I:7, D:8
+S-32D Kaldi 11 23.333 S:5, I:6, D:4
+
+S-22B Google 0 43.498 S:34, I:2, D:62
+S-22B Kaldi 0 24.664 S:36, I:4, D:16
+
+S-22B Google 1 33.475 S:30, I:2, D:48
+S-22B Kaldi 1 20.763 S:38, I:5, D:7
+
+S-22B Google 2 37.329 S:102, I:5, D:112
+S-22B Kaldi 2 21.404 S:84, I:13, D:29
+
+S-22B Google 3 36.759 S:30, I:0, D:64
+S-22B Kaldi 3 17.787 S:26, I:5, D:15
+
+S-22B Google 4 43.732 S:55, I:0, D:96
+S-22B Kaldi 4 22.741 S:42, I:2, D:35
+
+S-22B Google 5 39.733 S:55, I:2, D:93
+S-22B Kaldi 5 18.4 S:47, I:7, D:16
+
+S-22B Google 6 45.714 S:7, I:0, D:10
+S-22B Kaldi 6 22.857 S:4, I:0, D:5
+
+S-22B Google 7 26.506 S:24, I:0, D:21
+S-22B Kaldi 7 17.47 S:21, I:1, D:8
+
+S-22B Google 8 34.802 S:32, I:1, D:47
+S-22B Kaldi 8 18.062 S:28, I:2, D:12
+
+S-22B Google 9 23.913 S:3, I:0, D:9
+S-22B Kaldi 9 10.87 S:3, I:1, D:2
+
+S-22B Google 10 30.392 S:32, I:1, D:30
+S-22B Kaldi 10 19.608 S:31, I:2, D:8
+
+S-22B Google 11 39.904 S:41, I:2, D:41
+S-22B Kaldi 11 18.75 S:29, I:4, D:7
+
+S-4D Google 0 55.556 S:115, I:7, D:179
+S-4D Kaldi 0 40.741 S:142, I:8, D:71
+
+S-4D Google 1 58.19 S:110, I:3, D:158
+S-4D Kaldi 1 41.81 S:120, I:9, D:66
+
+S-4D Google 2 54.354 S:75, I:2, D:105
+S-4D Kaldi 2 36.937 S:64, I:5, D:55
+
+S-4D Google 3 52.861 S:89, I:1, D:105
+S-4D Kaldi 3 35.422 S:69, I:2, D:60
+
+S-4D Google 4 52.621 S:125, I:0, D:127
+S-4D Kaldi 4 36.478 S:93, I:8, D:74
+
+S-4D Google 5 57.848 S:121, I:1, D:137
+S-4D Kaldi 5 37.444 S:102, I:9, D:57
+
+S-8D Google 0 42.066 S:40, I:1, D:74
+S-8D Kaldi 0 20.295 S:38, I:4, D:14
+
+S-8D Google 1 33.333 S:32, I:0, D:54
+S-8D Kaldi 1 16.863 S:29, I:1, D:14
+
+S-8D Google 2 30.543 S:38, I:1, D:97
+S-8D Kaldi 2 17.873 S:42, I:7, D:31
+
+S-8D Google 3 38.73 S:64, I:0, D:126
+S-8D Kaldi 3 27.664 S:83, I:6, D:47
+
+S-8D Google 4 34.709 S:83, I:2, D:101
+S-8D Kaldi 4 21.388 S:77, I:6, D:32
+
+S-8D Google 5 31.29 S:60, I:2, D:87
+S-8D Kaldi 5 17.125 S:50, I:5, D:27
+
+S-3C Google 0 37.447 S:44, I:1, D:44
+S-3C Kaldi 0 33.191 S:37, I:12, D:30
+
+S-3C Google 1 38.71 S:23, I:1, D:37
+S-3C Kaldi 1 32.903 S:29, I:6, D:17
+
+S-3C Google 2 43.085 S:50, I:4, D:109
+S-3C Kaldi 2 28.457 S:57, I:2, D:49
+
+S-3C Google 3 31.897 S:43, I:3, D:29
+S-3C Kaldi 3 20.259 S:36, I:2, D:10
+
+S-3C Google 4 38.427 S:91, I:9, D:72
+S-3C Kaldi 4 22.247 S:65, I:5, D:30
+
+S-3C Google 5 39.114 S:40, I:1, D:66
+S-3C Kaldi 5 29.52 S:41, I:2, D:38
+
+S-12D Google 0 53.279 S:28, I:0, D:38
+S-12D Kaldi 0 30.328 S:23, I:1, D:14
+
+S-12D Google 1 54.717 S:33, I:1, D:54
+S-12D Kaldi 1 35.22 S:38, I:2, D:17
+
+S-12D Google 2 43.182 S:18, I:0, D:21
+S-12D Kaldi 2 27.273 S:10, I:3, D:12
+
+S-12D Google 3 57.143 S:28, I:0, D:25
+S-12D Kaldi 3 30.769 S:15, I:1, D:13
+
+S-12D Google 4 43.478 S:40, I:0, D:41
+S-12D Kaldi 4 23.37 S:27, I:1, D:16
+
+S-12D Google 5 55.696 S:38, I:0, D:51
+S-12D Kaldi 5 34.177 S:33, I:0, D:22
+
+S-18B Google 0 40.268 S:45, I:0, D:76
+S-18B Kaldi 0 26.846 S:57, I:6, D:18
+
+S-18B Google 1 33.191 S:27, I:1, D:51
+S-18B Kaldi 1 19.149 S:26, I:7, D:13
+
+S-18B Google 2 39.444 S:33, I:1, D:38
+S-18B Kaldi 2 23.889 S:32, I:6, D:6
+
+S-18B Google 3 40.079 S:44, I:3, D:55
+S-18B Kaldi 3 21.032 S:36, I:6, D:12
+
+S-18B Google 4 31.56 S:33, I:3, D:54
+S-18B Kaldi 4 24.823 S:35, I:10, D:26
+
+S-18B Google 5 29.861 S:37, I:1, D:49
+S-18B Kaldi 5 14.236 S:24, I:6, D:12
+
+S-18B Google 6 28.571 S:17, I:1, D:17
+S-18B Kaldi 6 16.807 S:10, I:3, D:8
+
+S-18B Google 7 30.846 S:36, I:5, D:22
+S-18B Kaldi 7 17.91 S:24, I:4, D:9
+
+S-18B Google 8 42.857 S:9, I:0, D:10
+S-18B Kaldi 8 30.952 S:9, I:0, D:5
+
+S-18B Google 9 66.667 S:9, I:0, D:0
+S-18B Kaldi 9 50.0 S:5, I:2, D:0
+
+S-18B Google 10 30.263 S:8, I:0, D:16
+S-18B Kaldi 10 31.579 S:18, I:5, D:2
+
+S-18B Google 11 36.196 S:36, I:0, D:24
+S-18B Kaldi 11 25.153 S:26, I:7, D:9
+
+S-26B Google 0 38.202 S:13, I:0, D:22
+S-26B Kaldi 0 25.843 S:17, I:2, D:5
+
+S-26B Google 1 37.45 S:38, I:0, D:57
+S-26B Kaldi 1 27.888 S:47, I:9, D:15
+
+S-26B Google 2 40.214 S:65, I:3, D:46
+S-26B Kaldi 2 24.911 S:47, I:10, D:14
+
+S-26B Google 3 48.966 S:34, I:1, D:37
+S-26B Kaldi 3 35.862 S:38, I:3, D:12
+
+S-26B Google 4 39.249 S:60, I:3, D:53
+S-26B Kaldi 4 21.843 S:39, I:3, D:23
+
+S-26B Google 5 51.621 S:116, I:2, D:90
+S-26B Kaldi 5 40.399 S:101, I:5, D:57
+
+S-26B Google 6 32.967 S:20, I:0, D:41
+S-26B Kaldi 6 25.824 S:35, I:1, D:12
+
+S-26B Google 7 29.703 S:16, I:0, D:15
+S-26B Kaldi 7 28.713 S:25, I:3, D:2
+
+S-26B Google 8 31.897 S:19, I:3, D:16
+S-26B Kaldi 8 23.276 S:15, I:4, D:9
+
+S-26B Google 9 33.333 S:8, I:0, D:3
+S-26B Kaldi 9 33.333 S:10, I:0, D:1
+
+S-26B Google 10 56.383 S:33, I:2, D:19
+S-26B Kaldi 10 38.298 S:27, I:1, D:9
+
+S-26B Google 11 40.0 S:0, I:0, D:5
+S-26B Kaldi 11 20.0 S:2, I:0, D:1
+
+S-30B Google 0 44.589 S:37, I:1, D:66
+S-30B Kaldi 0 33.333 S:53, I:4, D:21
+
+S-30B Google 1 41.818 S:13, I:1, D:56
+S-30B Kaldi 1 32.121 S:42, I:5, D:7
+
+S-30B Google 2 25.49 S:22, I:1, D:56
+S-30B Kaldi 2 18.954 S:45, I:3, D:11
+
+S-30B Google 3 27.451 S:24, I:1, D:46
+S-30B Kaldi 3 20.392 S:39, I:2, D:12
+
+S-30B Google 4 33.602 S:61, I:1, D:106
+S-30B Kaldi 4 27.968 S:93, I:3, D:44
+
+S-30B Google 5 30.255 S:51, I:2, D:102
+S-30B Kaldi 5 22.004 S:72, I:4, D:37
+
+S-30B Google 6 28.571 S:1, I:0, D:18
+S-30B Kaldi 6 26.984 S:10, I:0, D:8
+
+S-30B Google 7 31.25 S:11, I:0, D:15
+S-30B Kaldi 7 23.75 S:15, I:3, D:2
+
+S-30B Google 8 38.889 S:1, I:0, D:14
+S-30B Kaldi 8 30.556 S:8, I:1, D:3
+
+S-30B Google 9 49.091 S:8, I:0, D:20
+S-30B Kaldi 9 16.364 S:7, I:0, D:3
+
+S-30B Google 10 61.765 S:5, I:0, D:17
+S-30B Kaldi 10 35.294 S:12, I:0, D:1
+
+S-30B Google 11 41.379 S:4, I:1, D:20
+S-30B Kaldi 11 31.034 S:9, I:3, D:7
+
+S-2B Google 0 56.757 S:14, I:0, D:50
+S-2B Kaldi 0 42.342 S:32, I:2, D:14
+
+S-2B Google 1 66.897 S:25, I:0, D:73
+S-2B Kaldi 1 55.172 S:47, I:1, D:33
+
+S-2B Google 2 57.143 S:140, I:4, D:141
+S-2B Kaldi 2 40.644 S:119, I:10, D:74
+
+S-2B Google 3 48.315 S:38, I:0, D:49
+S-2B Kaldi 3 32.584 S:36, I:0, D:23
+
+S-2B Google 4 49.185 S:82, I:1, D:99
+S-2B Kaldi 4 39.674 S:100, I:4, D:43
+
+S-2B Google 5 52.846 S:93, I:2, D:166
+S-2B Kaldi 5 32.114 S:85, I:2, D:72
+
+S-17A Google 0 33.745 S:78, I:3, D:84
+S-17A Kaldi 0 20.37 S:69, I:8, D:23
+
+S-17A Google 1 26.28 S:79, I:4, D:72
+S-17A Kaldi 1 14.334 S:59, I:4, D:22
+
+S-17A Google 2 21.698 S:29, I:3, D:38
+S-17A Kaldi 2 9.748 S:21, I:5, D:6
+
+S-17A Google 3 29.624 S:107, I:6, D:69
+S-17A Kaldi 3 16.203 S:69, I:13, D:18
+
+S-17A Google 4 29.503 S:102, I:3, D:86
+S-17A Kaldi 4 13.975 S:59, I:5, D:27
+
+S-17A Google 5 30.091 S:41, I:0, D:59
+S-17A Kaldi 5 13.982 S:31, I:2, D:14
+
+S-17A Google 6 35.115 S:55, I:6, D:32
+S-17A Kaldi 6 17.557 S:36, I:6, D:5
+
+S-17A Google 7 34.94 S:114, I:5, D:56
+S-17A Kaldi 7 18.072 S:64, I:9, D:18
+
+S-17A Google 8 29.31 S:31, I:5, D:33
+S-17A Kaldi 8 12.069 S:20, I:3, D:6
+
+S-17A Google 9 25.323 S:50, I:4, D:45
+S-17A Kaldi 9 14.987 S:37, I:5, D:17
+
+S-17A Google 10 19.083 S:54, I:6, D:45
+S-17A Kaldi 10 11.193 S:38, I:6, D:18
+
+S-17A Google 11 18.391 S:11, I:0, D:6
+S-17A Kaldi 11 16.092 S:11, I:1, D:3
+
+S-15C Google 0 34.0 S:39, I:2, D:45
+S-15C Kaldi 0 20.0 S:41, I:4, D:6
+
+S-15C Google 1 28.571 S:37, I:3, D:37
+S-15C Kaldi 1 21.053 S:35, I:9, D:13
+
+S-15C Google 2 32.719 S:36, I:3, D:33
+S-15C Kaldi 2 23.041 S:31, I:7, D:13
+
+S-15C Google 3 29.114 S:29, I:1, D:40
+S-15C Kaldi 3 19.831 S:37, I:1, D:10
+
+S-15C Google 4 19.523 S:38, I:4, D:49
+S-15C Kaldi 4 14.967 S:43, I:13, D:14
+
+S-15C Google 5 34.435 S:61, I:3, D:62
+S-15C Kaldi 5 20.661 S:50, I:2, D:24
+
+S-15C Google 6 38.71 S:6, I:1, D:6
+S-15C Kaldi 6 48.387 S:12, I:1, D:3
+
+S-15C Google 7 56.034 S:34, I:6, D:26
+S-15C Kaldi 7 39.655 S:21, I:19, D:7
+
+S-15C Google 8 19.601 S:34, I:2, D:24
+S-15C Kaldi 8 18.272 S:30, I:14, D:12
+
+S-24D Google 0 50.607 S:59, I:0, D:67
+S-24D Kaldi 0 29.555 S:52, I:4, D:18
+
+S-24D Google 1 40.076 S:52, I:1, D:53
+S-24D Kaldi 1 20.992 S:33, I:5, D:18
+
+S-24D Google 2 43.421 S:96, I:5, D:65
+S-24D Kaldi 2 26.053 S:64, I:9, D:27
+
+S-24D Google 3 37.263 S:95, I:4, D:79
+S-24D Kaldi 3 25.895 S:82, I:13, D:29
+
+S-24D Google 4 40.125 S:123, I:2, D:132
+S-24D Kaldi 4 21.63 S:93, I:21, D:25
+
+S-24D Google 5 43.952 S:122, I:2, D:95
+S-24D Kaldi 5 25.605 S:80, I:9, D:39
+
+S-24D Google 6 44.706 S:16, I:0, D:23
+S-24D Kaldi 6 20.0 S:10, I:0, D:8
+
+S-24D Google 7 51.613 S:25, I:1, D:7
+S-24D Kaldi 7 37.097 S:19, I:4, D:1
+
+S-24D Google 8 26.667 S:5, I:0, D:12
+S-24D Kaldi 8 20.0 S:7, I:1, D:5
+
+S-24D Google 9 54.088 S:50, I:0, D:37
+S-24D Kaldi 9 32.704 S:35, I:13, D:5
+
+S-24D Google 10 47.5 S:18, I:0, D:21
+S-24D Kaldi 10 18.75 S:12, I:1, D:3
+
+S-24D Google 11 48.113 S:25, I:1, D:26
+S-24D Kaldi 11 33.962 S:24, I:3, D:10
+
+Google mean: 39.787549407114625,  standard deviation:11.625084653290726
+Kaldi mean: 26.50316205533597,  standard deviation:9.837976748668138
+
+Google got higher deletion error and substitution error. And Kaldi has more insertion error.
